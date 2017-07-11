@@ -1,0 +1,12 @@
+{
+    "name": "sinamfe-marauder-ensure-ls",
+    "version": "0.0.10",
+    "description": "被marauder引用，用于提高性能，在require.ensure使用过程中利用ls进行缓存",
+    "main": "src/index.js",
+    "module": "src/index.js",
+    "author": "fengwan <fengwan@staff.sina.com.cn>",
+    "engines": {
+        "npm": ">= 4.0.0",
+        "node": ">= 6.0.0"
+    }
+}
